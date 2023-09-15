@@ -1,0 +1,31 @@
+2023.09.11 월요일
+1. [[const]]
+2. [[let]]
+3. [[var]]
+4. [[void]]
+5. [[eval]]
+2023.09.12 화요일
+1. [[arguments]]
+2. [[function]]
+3. [[debugger]]
+4. [[return]]
+2023.09.13 수요일
+1. [[for]]
+2. [[while]]
+3. [[do...while...]]
+4. [[break]]
+5. [[continue]]
+6. [[if...else...]]
+7. [[switch...case...default]]
+8. [[label]]
+2023.09.14 목요일
+1. [[delete]]
+2. [[in]]
+3. [[typeof]]
+4. [[instanceof]]
+5. [[new]]
+6. [[this]]
+2023.09.15 금요일
+1. [[try...catch...finally...(예외 처리기)]]
+2. [[throw]]
+
